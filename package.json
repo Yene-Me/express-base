@@ -1,0 +1,14 @@
+{
+  "name": "express-basic",
+  "version": "1.0.0",
+  "description": "basic express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Yene",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
